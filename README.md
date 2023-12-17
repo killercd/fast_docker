@@ -1,2 +1,2 @@
-# fast_docker
+# Fast Docker
 Docker manager with fast-api backend
